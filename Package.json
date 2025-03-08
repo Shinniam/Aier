@@ -1,0 +1,14 @@
+{
+  "name": "vercel-math-solver",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nerdamer": "^1.1.9",
+    "tesseract.js": "^2.1.5"
+  },
+  "scripts": {
+    "start": "node api/server.js"
+  }
+}

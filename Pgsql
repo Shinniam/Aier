@@ -1,0 +1,5 @@
+my-vercel-project/
+├── api/
+│   └── server.js
+├── package.json
+└── vercel.json
